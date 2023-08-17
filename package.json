@@ -1,0 +1,19 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "shows current weather status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "dev",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "requests": "^0.3.0"
+  }
+}
